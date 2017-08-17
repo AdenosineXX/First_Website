@@ -1,2 +1,17 @@
 style.css
 
+* {
+background-color:Black;
+}
+
+h1 {
+  color:red;
+  font-size:50px;
+  font-align:center;
+}
+
+h2 {
+  color: blue;
+  font-szie:30px;
+  font-align:center;
+}
